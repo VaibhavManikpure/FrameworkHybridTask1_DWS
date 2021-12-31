@@ -1,0 +1,483 @@
+[INFO]opening browser Page---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shoppingCart Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS addressInfo Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS confirmOrder Success---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shoppingCart Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS addressInfo Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS confirmOrder Success---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shoppingCart Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS addressInfo Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS confirmOrder Success---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shoppingCart Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS addressInfo Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS confirmOrder Success---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shoppingCart Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS addressInfo Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS confirmOrder Success---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shoppingCart Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS addressInfo Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS confirmOrder Success---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO]opening browser Page---
+[INFO]opening DWS Registration Page---
+[INFO]maximize browser---
+[WARN]get cookies---
+[INFO] DWS Registration Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shopping product added Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS shoppingCart Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS addressInfo Success---
+[WARN]screen shot capture---
+[WARN]get cookies---
+[INFO] DWS confirmOrder Success---
+[WARN]screen shot capture---
+[WARN]delet cookies---
+[WARN]dbclose---
+[WARN]closeDriver---

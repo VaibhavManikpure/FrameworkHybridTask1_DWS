@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.cjc.dws.wa.test.PurchaseProductTest">
+        <methods>
+          <include name="shoppingCart"/>
+          <include name="captureScreenShot"/>
+          <include name="register"/>
+          <include name="openBrowser"/>
+          <include name="Address"/>
+          <include name="maximizeBrowser"/>
+          <include name="getCookies"/>
+          <include name="dbClose"/>
+          <include name="openUrl"/>
+          <include name="Product"/>
+          <include name="deletCookies"/>
+          <include name="ConfirmOrder"/>
+          <include name="closeBrouser"/>
+        </methods>
+      </class> <!-- com.cjc.dws.wa.test.PurchaseProductTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
