@@ -1,4 +1,4 @@
-package com.cjc.dws.wa.test;
+package com.cjc.dws.wa.tests;
 
 import java.io.File;
 import java.io.FileInputStream;
